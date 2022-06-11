@@ -1,0 +1,13 @@
+C:\Users\Alexe\source\repos\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\Alexe\source\repos\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alexe\source\repos\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Alexe\source\repos\Server\bin\Debug\Server.exe.config
+C:\Users\Alexe\source\repos\Server\bin\Debug\Server.exe
+C:\Users\Alexe\source\repos\Server\bin\Debug\Server.pdb
+C:\Users\Alexe\source\repos\Server\obj\Debug\Server.exe
+C:\Users\Alexe\source\repos\Server\obj\Debug\Server.pdb
+C:\Users\Alexe\source\repos\Server\bin\Debug\Server.exe.manifest
+C:\Users\Alexe\source\repos\Server\bin\Debug\Server.application
+C:\Users\Alexe\source\repos\Server\obj\Debug\Server.TrustInfo.xml
+C:\Users\Alexe\source\repos\Server\obj\Debug\Server.exe.manifest
+C:\Users\Alexe\source\repos\Server\obj\Debug\Server.application

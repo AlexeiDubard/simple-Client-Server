@@ -1,0 +1,8 @@
+C:\Users\Alexe\source\repos\Client\bin\Release\Client.exe.config
+C:\Users\Alexe\source\repos\Client\bin\Release\Client.exe
+C:\Users\Alexe\source\repos\Client\bin\Release\Client.pdb
+C:\Users\Alexe\source\repos\Client\obj\Release\Client.csproj.AssemblyReference.cache
+C:\Users\Alexe\source\repos\Client\obj\Release\Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alexe\source\repos\Client\obj\Release\Client.csproj.CoreCompileInputs.cache
+C:\Users\Alexe\source\repos\Client\obj\Release\Client.exe
+C:\Users\Alexe\source\repos\Client\obj\Release\Client.pdb

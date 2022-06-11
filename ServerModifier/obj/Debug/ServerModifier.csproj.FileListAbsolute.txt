@@ -1,0 +1,8 @@
+C:\Users\Alexe\source\repos\ServerModifier\bin\Debug\ServerModifier.exe.config
+C:\Users\Alexe\source\repos\ServerModifier\bin\Debug\ServerModifier.exe
+C:\Users\Alexe\source\repos\ServerModifier\bin\Debug\ServerModifier.pdb
+C:\Users\Alexe\source\repos\ServerModifier\obj\Debug\ServerModifier.csproj.AssemblyReference.cache
+C:\Users\Alexe\source\repos\ServerModifier\obj\Debug\ServerModifier.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alexe\source\repos\ServerModifier\obj\Debug\ServerModifier.csproj.CoreCompileInputs.cache
+C:\Users\Alexe\source\repos\ServerModifier\obj\Debug\ServerModifier.exe
+C:\Users\Alexe\source\repos\ServerModifier\obj\Debug\ServerModifier.pdb
